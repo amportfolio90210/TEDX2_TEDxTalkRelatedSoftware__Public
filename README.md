@@ -2,7 +2,7 @@
 
 # README
 
-This repo has the software based on which the Rig Veda/Vedas related research was conducted.
+This repo has the software based on which the Upanishads/Vedas related research was conducted.
 
 [: UPDATE OF NOVEMBER 8, 2026 :]
 
